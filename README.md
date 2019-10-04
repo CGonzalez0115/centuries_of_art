@@ -10,7 +10,7 @@ $ gem install centuries_of_art
 
 Type the below and follow the on screen prompts.
 
-$ worlds-best-restaurants
+$ centuries_of_art
 
 ## Development
 
